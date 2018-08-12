@@ -12,7 +12,7 @@ Solución para contribuir al mejoramiento en la movilidad de la localidad de **T
 * Natalia Rodriguez
 * Jhon Hernandez
 * Jorge Forero
-* Carlos Franco
+* > Carlos Franco
 ## Roles
 
 
