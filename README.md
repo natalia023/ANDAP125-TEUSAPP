@@ -8,13 +8,8 @@ Solución para contribuir al mejoramiento en la movilidad de la localidad de **T
 1. Landing Page
 1. Aplicación en Android y IOS
 1. Página Web
-## Integrantes
-* Natalia Rodriguez
-* Jhon Hernandez
-* Jorge Forero
-* > Carlos Franco
-## Roles
 
+## Integrantes y Roles
 
 | Integrantes    | Rol   |
 |----------------------|-----------|
