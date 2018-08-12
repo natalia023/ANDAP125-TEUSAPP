@@ -40,6 +40,10 @@ ciclistas, como:
 
 -Reporta infracciones de otros ciclistas y ayudanos a mejorar la seguridad de la comunidad
 
+
+Éste es el [Reglamento](https://www.youtube.com/watch?v=OcK2qHjQV0o) que aplica para los ciclistas.
+
+
 ### Contactanos
 
 Nombres: 
@@ -53,10 +57,8 @@ deseo tener información de:
 - [ ] Reportes de incidentes
 - [x] Información general
 
-``` Ruby
-puts "codificando Markdown"
-if puts then ingreso
-```
+
+<button class="button-save large">Enviar</button>
 
 ---------------------------------------------------------------------------------------
 ## Como descargarla?
