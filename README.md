@@ -16,6 +16,13 @@ Solución para contribuir al mejoramiento en la movilidad de la localidad de **T
 ## Roles
 
 
+| Integrantes    | Rol   |
+|----------------------|-----------|
+|   Natalia Rodriguez   |Full Stack|
+|   Jhon Hernandez  |Full Stack|
+|Jorge Forero |Full Stack|
+|Carlos Franco |Full Stack|
+
 ## Para que sirve?
 con ella podras registrar los incidentes que suceden en tu ciudad, y adicional, podras ver reportes de infracciones cometidas por los
 ciclistas, como:
