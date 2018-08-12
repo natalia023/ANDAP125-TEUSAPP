@@ -58,7 +58,7 @@ puts "codificando Markdown"
 if puts then ingreso
 ```
 
-
-### Como descargarla?
-[tan sólo da clic aquí](https://www.microsoft.com/en-us/windows/windows-10-apps)
+---------------------------------------------------------------------------------------
+## Como descargarla?
+[Sólamente da clic aquí](https://www.microsoft.com/en-us/windows/windows-10-apps)
 
