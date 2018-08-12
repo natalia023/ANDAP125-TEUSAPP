@@ -40,9 +40,9 @@ ciclistas, como:
 
 -Reporta infracciones de otros ciclistas y ayudanos a mejorar la seguridad de la comunidad
 
-
+---------------------------------------------------------------------------------------------------
 Éste es el [Reglamento](https://www.youtube.com/watch?v=OcK2qHjQV0o) que aplica para los ciclistas.
-
+---------------------------------------------------------------------------------------------------
 
 ### Contactanos
 
