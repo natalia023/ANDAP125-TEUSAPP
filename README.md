@@ -13,10 +13,10 @@ Solución para contribuir al mejoramiento en la movilidad de la localidad de **T
 
 | Integrantes    | Rol   |
 |----------------------|-----------|
-|   Natalia Rodriguez   |Full Stack|
-|   Jhon Hernandez  |Full Stack|
-|Jorge Forero |Full Stack|
-|Carlos Franco |Full Stack|
+|   Natalia Rodriguez   |Front-end|
+|   Jhon Hernandez  |Back-end|
+|Jorge Forero |Front-end|
+|Carlos Franco |Back-end|
 
 
 ![Imagen1](https://user-images.githubusercontent.com/42304733/44003083-67847130-9e12-11e8-84f0-5c22fdb22111.png)
