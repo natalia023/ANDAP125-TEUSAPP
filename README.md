@@ -62,5 +62,5 @@ deseo tener información de:
 
 ---------------------------------------------------------------------------------------
 ## Ver landing Page
-[Sólamente da clic aquí](https://www.teusapp.com/)
+[www.teusapp.com](https://www.teusapp.com/)
 
