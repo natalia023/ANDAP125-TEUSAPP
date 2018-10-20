@@ -61,6 +61,6 @@ deseo tener información de:
 <button class="button-save large">Enviar</button>
 
 ---------------------------------------------------------------------------------------
-## Como descargarla?
+## Ver landing Page
 [Sólamente da clic aquí](https://www.teusapp.com/)
 
