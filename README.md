@@ -62,5 +62,5 @@ deseo tener información de:
 
 ---------------------------------------------------------------------------------------
 ## Como descargarla?
-[Sólamente da clic aquí](https://www.microsoft.com/en-us/windows/windows-10-apps)
+[Sólamente da clic aquí](https://www.teusapp.com/)
 
